@@ -2,18 +2,21 @@
 
 ![Finished Audio Visualizer](images/projphoto.jpg)
 
-insert quick description
----
+An Audio Visualizer which displays volume information for 8 notes from 220-440Hz.
+An Audio Visualizer built from discrete components, 3D printed casing, and a microcontroller. Developed and designed as a course team project from January 2026 to April 2026.
 
+---
 ## Highlights
 
-- what I did. Remember to try to put numbers!
+- Created overall circuit design, allowing the audio sensor, LED matrix screen, and microcontroller modules to operate together effectively.
+- Tested the LED matrix screen concept for the project by constructing a smaller 3x3 LED matrix, verifying that it works.
+- Developed software to translate amplitude and frequency information from the audio sensor into column position and column height information for the LED matrix.
 
 ---
 
 ## Overview
 
-goal of this project.
+This project was done to give my team and I experience building a project following project management practices, such as constructing risk register, issue log, and actual cost reporting sheet documents.
 
 ## How It Works
 
